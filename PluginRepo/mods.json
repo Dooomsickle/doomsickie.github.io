@@ -1,0 +1,10 @@
+{
+  "mods": [
+    {
+      "name": "ClockUI",
+      "description": "A VRChat mod for Meta Quest that adds a heavily customizable realtime clock to the quick menu.",
+      "download_link": "https://github.com/DoomsickIe/VRC-ClockUI-Quest/releases/download/v1.0.0/ClockUI.dll"
+    }
+    ]
+}
+      
