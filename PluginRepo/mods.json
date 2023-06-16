@@ -1,76 +1,76 @@
 [
     {
-      ""name"": ""ClockUI"",
-      ""author"": ""Doomsickle"",
-      ""description"": ""A VRChat mod for Meta Quest that adds a heavily customizable realtime clock to the quick menu."",
-      ""download_link"": ""https://github.com/DoomsickIe/VRC-ClockUI-Quest/releases/download/v1.0.0/ClockUI.dll"",
-      ""version"": ""1.0.0"",
-      ""vrchat_version"": ""13XX"",
-      ""requirements"": [
+      "name": "ClockUI",
+      "author": "Doomsickle",
+      "description": "A VRChat mod for Meta Quest that adds a heavily customizable realtime clock to the quick menu.",
+      "download_link": "https://github.com/DoomsickIe/VRC-ClockUI-Quest/releases/download/v1.0.0/ClockUI.dll",
+      "version": "1.0.0",
+      "vrchat_version": "13XX",
+      "requirements": [
         {
-          ""name"": ""ReMod.Core-Quest"",
-          ""author"": ""Cyril-Xd"",
-          ""description"": ""the remod core for quest"",
-          ""download_link"": ""https://github.com/Cyril-Xd/ReMod.Core-Quest/releases/download/v1.1.9/ReMod.Core.dll"",
-          ""version"": ""1.1.9"",
-          ""vrchat_version"": ""13XX"",
-          ""requirements"": []
+          "name": "ReMod.Core-Quest",
+          "author": "Cyril-Xd",
+          "description": "the remod core for quest",
+          "download_link": "https://github.com/Cyril-Xd/ReMod.Core-Quest/releases/download/v1.1.9/ReMod.Core.dll",
+          "version": "1.1.9",
+          "vrchat_version": "13XX",
+          "requirements": []
         }
       ]
     },
     {
-      ""name"": ""QMFreeze"",
-      ""author"": ""EdenFails"",
-      ""description"": ""QMFreeze is a quality of life mod that prevents the user from being unable to interact with their Quick Menu in VR while falling."",
-      ""download_link"": ""https://github.com/EdenFails/QMFreeze/releases/download/1.0.0/QMFreezeVrchat.dll"",
-      ""version"": ""1.0.0"",
-      ""vrchat_version"": ""13XX"",
-      ""requirements"": []
+    "name": "QMFreeze",
+      "author": "EdenFails",
+      "description": "QMFreeze is a quality of life mod that prevents the user from being unable to interact with their Quick Menu in VR while falling.",
+      "download_link": "https://github.com/EdenFails/QMFreeze/releases/download/1.0.0/QMFreezeVrchat.dll",
+    "version": "1.0.0",
+      "vrchat_version": "13XX",
+      "requirements": []
     },
     {
-      ""name"": ""VRCPlusPlus"",
-      ""author"": ""FS21114 & Doomsickle"",
-      ""description"": ""VRCPlusPlus tricks worlds into thinking you are the owner, on by default. Typically this gives you Patreon or VIP content for free"",
-      ""download_link"": ""https://github.com/DoomsickIe/VRCPlusPlus-Fixed/releases/download/0.3/VRCPlusPlus_Fixed.dll"",
-      ""version"": ""3.0.0"",
-      ""vrchat_version"": ""Universal"",
-      ""requirements"": []
+    "name": "VRCPlusPlus",
+      "author": "FS21114 & Doomsickle",
+      "description": "VRCPlusPlus tricks worlds into thinking you are the owner, on by default.Typically this gives you Patreon or VIP content for free",
+    "download_link": "https://github.com/DoomsickIe/VRCPlusPlus-Fixed/releases/download/0.3/VRCPlusPlus_Fixed.dll",
+      "version": "3.0.0",
+    "vrchat_version": "Universal",
+      "requirements": []
     },
     {
-      ""name"": ""AstralClone"",
-      ""author"": ""xKiraiChan"",
-      ""description"": ""Ignores APIUser::allowAvatarCloning via hooking"",
-      ""download_link"": ""https://nc.zero-blank.cloud/s/BK2XTLpfEHx5yrn/download/AstralClone.dll"",
-      ""version"": ""0.1.0"",
-      ""vrchat_version"": ""Universal"",
-      ""requirements"": []
+    "name": "AstralClone",
+      "author": "xKiraiChan",
+      "description": "Ignores APIUser::allowAvatarCloning via hooking",
+      "download_link": "https://nc.zero-blank.cloud/s/BK2XTLpfEHx5yrn/download/AstralClone.dll",
+    "version": "0.1.0",
+      "vrchat_version": "Universal",
+      "requirements": []
     },
     {
-      ""name"": ""Promovements"",
-      ""author"": ""EdenFails & Aceisbest"",
-      ""description"": ""Promovements allows you to move more freely. Adds features such as speed hack, flight, force jump, and teleporting to players and where you point. Double press X to teleport by pointing."",
-      ""download_link"": ""https://github.com/Aceisbest/Promovements_Fixed/releases/download/New/Promovements_Fixed.dll"",
-      ""version"": ""1.0.0"",
-      ""vrchat_version"": ""13XX"",
-      ""requirements"": [
+    "name": "Promovements",
+      "author": "EdenFails & Aceisbest",
+      "description": "Promovements allows you to move more freely.Adds features such as speed hack, flight, force jump, and teleporting to players and where you point.Double press X to teleport by pointing.",
+      "download_link": "https://github.com/Aceisbest/Promovements_Fixed/releases/download/New/Promovements_Fixed.dll",
+    "version": "1.0.0",
+      "vrchat_version": "13XX",
+      "requirements": [
         {
-          ""name"": ""ReMod.Core-Quest"",
-          ""author"": ""Cyril-Xd"",
-          ""description"": ""the remod core for quest"",
-          ""download_link"": ""https://github.com/Cyril-Xd/ReMod.Core-Quest/releases/download/v1.1.9/ReMod.Core.dll"",
-          ""version"": ""1.1.9"",
-          ""vrchat_version"": ""13XX"",
-          ""requirements"": []
+        "name": "ReMod.Core - Quest",
+          "author": "Cyril - Xd",
+          "description": "the remod core for quest",
+          "download_link": "https://github.com/Cyril-Xd/ReMod.Core-Quest/releases/download/v1.1.9/ReMod.Core.dll",
+          "version": "1.1.9",
+          "vrchat_version": "13XX",
+          "requirements": []
         }
       ]
     },
     {
-      ""name"": ""AvatarSearcher"",
-      ""author"": ""Interesting-exe, Cyril-Xd and Neeko"",
-      ""description"": ""Allows you to search avatars using SARS/ARES"",
-      ""download_link"": ""https://github.com/Cyril-Xd/AvatarSearcher-Quest/releases/download/V2.1.3/AvatarSearcher.dll"",
-      ""version"": ""2.1.3"",
-      ""vrchat_version"": ""1295"",
-      ""requirements"": []
+    "name": "AvatarSearcher",
+      "author": "Interesting - exe, Cyril - Xd and Neeko",
+      "description": "Allows you to search avatars using SARS/ ARES",
+      "download_link": "https://github.com/Cyril-Xd/AvatarSearcher-Quest/releases/download/V2.1.3/AvatarSearcher.dll",
+    "version": "2.1.3",
+      "vrchat_version": "1295",
+      "requirements": []
     }
 ]
