@@ -43,7 +43,7 @@
     "name": "AstralClone",
       "author": "xKiraiChan",
       "description": "Ignores APIUser::allowAvatarCloning via hooking",
-      "download_link": "https://nc.zero-blank.cloud/s/BK2XTLpfEHx5yrn/download/AstralClone.dll",
+      "download_link": "https://github.com/Astrum-Project/AstralClone/releases/latest/download/AstralClone.dll",
     "version": "0.1.0",
       "vrchat_version": "Universal",
       "requirements": [],
